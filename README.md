@@ -53,7 +53,7 @@ Backend:
 - No manual change detection
 
 ---
-
+Note that the .NET Core web api must be started and available as a pre-requisite for the front-end app started using npm start.
 ## 📂 Solution Structure
 
 <img width="224" height="291" alt="image" src="https://github.com/user-attachments/assets/32ee395c-06eb-4796-9ba1-b4728208f8af" />
