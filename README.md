@@ -18,6 +18,17 @@ The application allows users to:
 - Delete TODO items
 
 ---
+## 🏗 Screen shots
+
+Frontend:
+
+<img width="857" height="1100" alt="image" src="https://github.com/user-attachments/assets/30765bf2-03e3-4594-a1e7-c60a94f1608d" />
+
+
+Backend:
+
+<img width="1914" height="1106" alt="image" src="https://github.com/user-attachments/assets/6252c248-42be-4506-a5c8-11baf7b45697" />
+
 
 ## 🏗 Architecture Overview
 
