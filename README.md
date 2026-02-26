@@ -56,13 +56,4 @@ Backend:
 
 ## 📂 Solution Structure
 
-todo-solution/
-│
-├── backend/
-│ ├── Todo.Api/
-│ └── Todo.Api.Tests/
-│
-├── frontend/
-│ └── todo-ui/
-│
-└── README.md
+<img width="224" height="291" alt="image" src="https://github.com/user-attachments/assets/32ee395c-06eb-4796-9ba1-b4728208f8af" />
