@@ -20,6 +20,14 @@ builder.Services.AddCors(options =>
               .AllowAnyMethod());
 });
 
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenLocalhost(7291, listenOptions =>
+    {
+        listenOptions.UseHttps();
+    });
+});
+
 var app = builder.Build();
 
 app.UseSwagger();
